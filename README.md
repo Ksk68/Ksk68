@@ -18,9 +18,7 @@
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![](https://geps.dev/progress/95?color=E34F26) | 1 Years | Intermediate |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![](https://geps.dev/progress/80?color=1572B6) | 1 Years | Intermediate |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | ![](https://geps.dev/progress/70?color=00758f) | 1 Years | Intermediate |
-### 📗 **Stats**
 
-![Ksk68's github stats](https://github-readme-stats.vercel.app/api?username=Ksk68&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ### 🌐 **Connect with me**
