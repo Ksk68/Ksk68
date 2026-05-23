@@ -5,9 +5,6 @@
 ![Location](https://img.shields.io/badge/Location-Portugal-red?style=for-the-badge&logo=portugal&logoColor=white)
 
 
-### 👨‍🎓 **About me**
-
-......
 ### 💻 **Languages more into now**
 
 | Language | Proficiency & Level | Experience | Comfort level |
@@ -18,7 +15,6 @@
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![](https://geps.dev/progress/70?color=E34F26) | 1 Years | Intermediate |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![](https://geps.dev/progress/70?color=1572B6) | 1 Years | Intermediate |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | ![](https://geps.dev/progress/50?color=00758f) | 1 Years | Intermediate |
-
 
 
 ### 🌐 **Connect with me**
