@@ -7,14 +7,14 @@
 
 ### 💻 **Languages more into now**
 
-| Language | Proficiency & Level | Experience | Comfort level |
-| :--- | :--- | :--- | :--- |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) | ![](https://geps.dev/progress/75?color=777BB4) | 1 Years | Intermediate |
-| ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) | ![](https://geps.dev/progress/35?color=F7DF1E) | 0.3 Years | Beginner |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![](https://geps.dev/progress/70?color=3670A0) | 1 Years | Intermediate |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![](https://geps.dev/progress/70?color=E34F26) | 1 Years | Intermediate |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![](https://geps.dev/progress/70?color=1572B6) | 1 Years | Intermediate |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | ![](https://geps.dev/progress/50?color=00758f) | 1 Years | Intermediate |
+| Language | Experience | Comfort level |
+| :--- | :--- | :--- |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) | 1 Years | Intermediate |
+| ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) | 0.6 Years | Beginner |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | 2 Years | Intermediate |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | 2 Years | Intermediate |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | 2 Years | Intermediate |
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | 0.6 Years | Intermediate |
 
 
 ### 🌐 **Connect with me**
